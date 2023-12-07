@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="Stationery 20230812.162055" description="" >
+	<parfile name="StationeryManagementSystem_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="StationeryManagementSystem_schema.jar" order="2"/>
+	<parfile name="StationeryManagementSystem_rules.jar" order="3"/>
+</application>
