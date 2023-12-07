@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Stationery
+Synchronizable: false
+ArtifactVersion: 20230812.162055
+Type: Product
+Product-Creation-Date: 2023-Aug-12 00:00:00
+Version: 20230812.162055
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Stationery Management System
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: Stationery
+Archive-Type: PegaArchive
+Export-Date: 2023-Aug-13 01:54:27
+Pega-Codeset-Name: Customer
+Instance-Count: 3106
+
+Name: FileMetadata
+
